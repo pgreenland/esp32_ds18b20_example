@@ -1,0 +1,6 @@
+[submodule "components/esp32_one_wire_uart"]
+	path = components/esp32_one_wire_uart
+	url = https://github.com/pgreenland/esp32_one_wire_uart.git
+[submodule "components/esp32_ds18b20"]
+	path = components/esp32_ds18b20
+	url = https://github.com/pgreenland/esp32_ds18b20.git
