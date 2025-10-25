@@ -31,3 +31,5 @@ I (1369) MAIN: Issuing simultaneous temperature conversion to all DS18B20 device
 I (1439) MAIN: Temperature [0]: 19.06 degC
 I (1469) MAIN: Temperature [1]: 18.94 degC
 ```
+
+For more information see my associated blog post: https://www.quantulum.co.uk/blog/1-wire-with-uart-on-esp-32
